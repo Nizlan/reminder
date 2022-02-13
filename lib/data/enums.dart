@@ -1,0 +1,1 @@
+enum PeriodType { certainTime, periodically }
